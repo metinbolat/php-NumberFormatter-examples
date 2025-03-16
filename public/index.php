@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -80,7 +80,7 @@
                 echo "</div>";
             }
         } else {
-            echo "<p>Gösterilecek dosya bulunamadı.</p>";
+            echo "<p>Nothin' to see here.</p>";
         }
         ?>
     </div>
